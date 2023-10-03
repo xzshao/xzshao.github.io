@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /competitions/index.html
-title: Fundings
+permalink: /Competition/index.html
+title: Competitions
 ---
 
 # About Me
