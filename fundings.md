@@ -6,5 +6,5 @@ title: Fundings
 
 ## Fundings
 
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+- Machine Learning-based Credit Assessment Model for Farmers with Inclusive Benefits<br>**Funding $3000** (Grant No. 202110069013)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2021-2023)<br><br>
+- Machine Learning-Based New Energy Vehicle Sales Forecasting<br>**Funding $3000** <br>Chinese Academy of Sciences (CAS) Science and Technology Innovation Programme<br>Project Leader & Student Investigator (2021-2022)<br><br>
