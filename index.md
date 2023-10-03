@@ -35,7 +35,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 ## Selected research results
 ### Competitions(Competitions Tab Detail)
 <br>
-<img src="/images/Competiton.png" class="floatpic" width="800" height="600">
+<img src="/images/Competiton.png" class="floatpic" width="800" height="700">
 <br>
 
 ### Research Projects
@@ -43,6 +43,6 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 <img src="/images/p1.png" class="floatpic" width="800" height="200">
 <br>
 <br>
-<img src="/images/p2.png" class="floatpic" width="800" height="800">
+<img src="/images/p2.png" class="floatpic" width="800" height="300">
 <br>
 
