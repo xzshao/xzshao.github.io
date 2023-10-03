@@ -34,6 +34,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
+  - title: research
+    url: /research/
+  - title: Competitions
+    url: /Competition/
   - title: Publications
     url: /publications/
   - title: Awards
