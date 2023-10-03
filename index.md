@@ -33,14 +33,16 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 ---
 
 ## Selected research results
-### Competitions(Competitions Tab Detail)
+### Competitions(*Competitions* Tab Detail)
 <img src="/images/Competiton.png">
 <br>
 
 
-### Research Projects
+### Research Projects(*Research experience* Tab Detail)
+Proposed for the data imbalance problem: **Adjust-Adacost model**<br>
 <img src="/images/p1.png" >    
-<br>
+
+Proposed for Time Series Forecasting: **Rolling ICEEMDAN-Methods**<br>
 <img src="/images/p2.png">
 <br>
 
