@@ -32,6 +32,8 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ---
 
+<img src="/images/p1.png" class="floatpic" width="18000" height="5000">
+
 ## Selected research results
 <img src="/images/p1.png" class="floatpic" width="18000" height="5000">
 <br>
