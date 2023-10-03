@@ -32,5 +32,16 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ---
 
-## News and Updates
+## Selected research results
+### Research Project
+<br>
+
+
+<br>
+
+### Competitions
+<br>
+
+
+<br>
 
