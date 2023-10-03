@@ -35,7 +35,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 ## Selected research results
 ### Research Project
 <br>
-
+<img src="/images/xianzhu.jpg" class="floatpic" width="360" height="360"><img src="/images/xianzhu.jpg" class="floatpic" width="360" height="360">
 
 <br>
 
