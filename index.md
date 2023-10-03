@@ -39,7 +39,6 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 
 ### Research Projects
-**jcabhdjbahja1**<br>
 <img src="/images/p1.png" >    
 <br>
 <img src="/images/p2.png">
