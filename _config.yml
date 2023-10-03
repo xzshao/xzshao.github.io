@@ -14,6 +14,13 @@ owner:
   #twitter: lancecai2002
   # facebook: caihanlin2002
   github: sin31
+  SKILLS:
+  - Python
+  - Matlab
+  - Verilog HDL
+  - MySQL
+  - COMSOL
+  - FPGA
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
