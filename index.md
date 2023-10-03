@@ -39,6 +39,16 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 - Proposed for Time Series Forecasting: **Rolling ICEEMDAN-Methods**.<br>
 <img src="/images/p2.png">
+
+- **Parallel High-Performance Simulated Annealing Algorithms**.<br>
+<img src="/images/HIGH_SA.png">
+
+- Proposed for Lithium Iron Phosphate Battery SOH Prediction: **Improved LSTM Model(Seq2Seq)**.<br>
+<div class="image-container">
+    <img src="/images/SOH_LSTM.png">
+    <img src="/images/SOH_LSTM2.png">
+</div>
+
 <br>
 
 
