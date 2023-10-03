@@ -40,9 +40,9 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ### Research Projects
 <br>
-<img src="/images/p1.jpg" class="floatpic" width="800" height="200">
+<img src="/images/p1.jpg" class="floatpic" width="600" height="150">
 <br>
 <br>
-<img src="/images/p2.jpg" class="floatpic" width="800" height="300">
+<img src="/images/p2.jpg" class="floatpic" width="600" height="200">
 <br>
 
