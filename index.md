@@ -12,9 +12,9 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
-- **Apr 2023 - present:** HaiFang Technology Co. (AI Algorithm Engineer)
-- **July 2021 - June 2022:** HaiFang Technology Co. (Optimization Algorithm Intern)
-- **Sep 2019 - May 2023:** Tianjin University of Commerce
+- **Apr 2023 - present:** HaiFang Technology Co. (AI Algorithm Engineer).
+- **July 2021 - June 2022:** HaiFang Technology Co. (Optimization Algorithm Intern).
+- **Sep 2019 - May 2023:** Tianjin University of Commerce.
 
 <br>
 
@@ -22,11 +22,11 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ## Research Interests
 
-- Applied Machine Learning & Deep Learning
-- Imbalance Data & Cost Sensitive Learning
-- Optimization Algorithm
-- Time Series forecasting 
-- High-performance computing
+- Applied Machine Learning & Deep Learning.
+- Imbalance Data & Cost Sensitive Learning.
+- Optimization Algorithm.
+- Time Series forecasting.
+- High-performance computing.
 
 <br>
 
@@ -34,28 +34,28 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ## Selected research results
 ### Research Projects(*Research experience* Tab Detail)
-- Proposed for the data imbalance problem: **Adjust-Adacost model**<br>
+- Proposed for the data imbalance problem: **Adjust-Adacost model**.<br>
 <img src="/images/p1.png" >    
 
-- Proposed for Time Series Forecasting: **Rolling ICEEMDAN-Methods**<br>
+- Proposed for Time Series Forecasting: **Rolling ICEEMDAN-Methods**.<br>
 <img src="/images/p2.png">
 <br>
 
 
 ### Competitions(*Competitions* Tab Detail)
-- China's Sky Eye Space Telescope Optimizes Model with Real-Time Adjustments
+- *China's Sky Eye Space Telescope Optimizes Model with Real-Time Adjustments*.
 <img src="/images/SA-国赛.png">
 
-- Edge Detection Models for Industrial Devices
+- *Edge Detection Models for Industrial Devices*.
 <img src="/images/edge-detect.png">
 
-- Simulation of Subway Headcount Variation over the Day due to Different Headway Intervals and Subway Siting
+- *Simulation of Subway Headcount Variation over the Day due to Different Headway Intervals and Subway Siting*.
 <img src="/images/chooes_place.png">
 
-- Sailboat Price Prediction Model - XGBoost based on SA Split Strategy
+- *Sailboat Price Prediction Model - XGBoost based on SA Split Strategy*.
 <img src="/images/boat_price.png">
 
-- EEMD-Based Machine Learning "Decomposition-Aggregation" Bitcoin Price Prediction Models
+- *EEMD-Based Machine Learning "Decomposition-Aggregation" Bitcoin Price Prediction Models*.
 <img src="/images/bit_predict.png">
 
 <br>
