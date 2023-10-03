@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-
+<img src="/images/xianzhu.jpg">
 Here is **Xianzhu Shao**.
 
 I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
