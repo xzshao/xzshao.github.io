@@ -33,7 +33,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 ---
 
 ## Selected research results
-### Research Projects(*Research experience* Tab Detail)
+### Research Projects(*RESEARCH* Tab Detail)
 - Proposed for the data imbalance problem: **Adjust-Adacost model**.<br>
 <img src="/images/p1.png" >    
 
@@ -52,7 +52,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 <br>
 
 
-### Competitions(*Competitions* Tab Detail)
+### Competitions(*COMPETITIONS* Tab Detail)
 - *China's Sky Eye Space Telescope Optimizes Model with Real-Time Adjustments*.
 <img src="/images/SA-国赛.png">
 
