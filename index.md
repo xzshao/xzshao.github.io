@@ -29,6 +29,12 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 - High-performance computing.
 
 <br>
+---
+
+## SKILLS
+Python(Pytorch, OpenCV, Optuna, Sklearn,plotly. etc.)
+Matlab(App Designer, OCBD, Comsol-Matlab Simulation. etc.)
+MySQL, Verilog HDL, COMSOL
 
 ---
 
