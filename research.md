@@ -38,3 +38,7 @@ SOH prediction of lithium batteries is a very hot issue in recent years, and has
 Solving large sparse matrices is a performance bottleneck often encountered in the field of computational fluid dynamics (of course, it is also very common in the field of ai), for example, comsol uses pardiso is a high-performance sparse matrix solver, the direct solver has a very high accuracy, but often in the process of large sparse matrices is very slow or can not be calculated, the iterative solver is to lose accuracy through the loss of make large sparse matrices to be solved.
 I spent about a month exploring almost all high-performance solver frameworks, and also accumulated more development experience, including pardiso, cupy, jax, taichi, PETSc, amgx, etc., and finally improved the computational performance of a process algorithm by nearly two orders of magnitude.
 
+---
+**END**
+***Due to some technical terms, I can't provide project details for the last three projects, so if you're interested, please contact me at my email and maybe we can set up a meeting to talk about it together!***
+
