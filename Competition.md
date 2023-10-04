@@ -9,10 +9,12 @@ title: Competitions
 I have selected some of the results of the competition to show you.
 
 # Selected Competitions
+
 ## Sailboat Price Prediction Model - XGBoost Based on SA Split Strategy.
 *Competition: Mathematical Contest In Modeling-2023*<br>
 *Brief overview of competition problems*：<br>
 Model sailboat price forecasts and analyze the impact of regional economic factors on sailboat price fluctuations.<br>
+
 *problems-solving strategy*：<br>
 First, we change the strategy of selecting features when constructing sub-models in XGBoost to the SA algorithm-based approach and compare the effects of XGBoost and the Improved SA-XGBoost.<br>
 **FIG_MCM2-1**
@@ -25,6 +27,7 @@ Ultimately I used SHAP values, PDP analysis, and ICE plots to explain the conclu
 *Competition: Mathematical Contest In Modeling-2022*<br>
 *Brief overview of competition problems*：<br>
 Construct a price prediction model for Bitcoin and gold and propose a trading strategy model to maximize the gains.
+
 *problems-solving strategy*：<br>
 First, To address the fact that the number of IMFs obtained from EEMD decomposition of time-series data is usually inconsistent, the problem leads to difficulties in extrapolating predictions from EEMD models. I propose to cluster the IMFs before prediction, as follows:<br>
 **FIG_MCM1-flowchat&decomposition**
@@ -37,6 +40,7 @@ Ultimately my teammates built financial and mathematical trading models based on
 *Competition: Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM)-2021*<br>
 *Brief overview of competition problems*：<br>
 Constructing reflective panel conditioning model and signal reflection model to maximize the efficiency of receiving and reflecting signals from China's sky eye.<br>
+
 *problems-solving strategy*：<br>
 First,I take the minimum radial Manhattan distance sum as the optimization objective, and use the grid search method to determine the focal length parameter of the paraboloid.The optimal paraboloid is finally determined.<br>
 **FIG_CUMCM-FIG1_Fumula**
@@ -49,6 +53,7 @@ Ultimately we modeled the signal reflection.<br>
 *Competition: 11th Asia Pacific University Mathematical Contest in Modeling(APMCM)-2021*<br>
 *Brief overview of competition problems*：<br>
 Constructing an industrial device for edge detection and labeling edges of different curvatures with different colors.<br>
+
 *problems-solving strategy*：<br>
 First, I denoised the industrial device images given by the competition, and at the same time constructed a camera calibration model using opencv to obtain the physical parameters of the camera.<br>
 **FIG_APMCM-FIG1_denoise_biaoding**
