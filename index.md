@@ -5,7 +5,7 @@ layout: page
 # About Me
 Here is **Xianzhu Shao**.
 
-I received my Bachelor of Science degree from the College of Science, Tianjin University of Commerce in June 2023, majoring in **Mathematics and Applied Mathematics**, and now I am an **AI algorithm engineer** in a Chinese technology company, responsible for the development of **AI-CFD** algorithms, **Optimization algorithms**, and **High-performance computing**. 
+I received my Bachelor of Science degree from the College of Science, Tianjin University of Commerce in June 2023, majoring in **Mathematics and Applied Mathematics**, and now I am an **AI algorithm engineer** in a Chinese technology company, responsible for the development of **AI-CFD algorithms** , **Optimization algorithms**, and **High-performance computing**. 
 
 <br>
 
