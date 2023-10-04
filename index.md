@@ -25,8 +25,8 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 - Applied Machine Learning & Deep Learning.
 - Imbalance Data & Cost Sensitive Learning.
 - Optimization Algorithm.
-- Time Series forecasting.
-- High-performance computing.
+- Time Series Forecasting.
+- High-Performance Computing.
 
 <br>
 
