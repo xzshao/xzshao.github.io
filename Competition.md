@@ -6,7 +6,8 @@ title: Competitions
 *I am honored that you would be interested in my experience with mathematical modeling and data mining competitions!*<br>
 ## Introduction
    During my college years, as a team leader, **I completed a total of 12 mathematical modeling and data mining competitions**, accumulated a rich programming foundation and cultivated the ability of mathematical modeling. In my sophomore year, I founded the first competition-based organization in our university - AI Second Class. In the coming year, I led the organization members to **win more than 80 national or global awards**, with more than 3 awards per organization members.
-I have selected some of the results of the competition to show you.
+
+***I have selected some of the results I have achieved from the competitions I have entered.***
 
 ## Selected Competitions
 
