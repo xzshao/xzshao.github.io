@@ -5,14 +5,14 @@ layout: page
 # About Me
 Here is **Xianzhu Shao**.
 
-I received my Bachelor of Science degree from the College of Science, Tianjin University of Commerce in June 2023, majoring in **Mathematics and Applied Mathematics**, and now I am an **AI algorithm engineer** in a Chinese technology company, responsible for the development of **AI-CFD algorithms** , **Optimization algorithms**, and **High-performance computing**. 
+I received my Bachelor of Science degree from the College of Science, Tianjin University of Commerce in June 2023, majoring in **Mathematics and Applied Mathematics**. Now, I am an **AI algorithm engineer** in a Chinese technology company, responsible for the development of **AI-CFD algorithms** , **Optimization algorithms**, and **High-performance computing**. 
 
 <br>
 
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
-- **Apr 2023 - present:** HaiFang Technology Co. (AI Algorithm Engineer).
+- **Apr 2023 - Present:** HaiFang Technology Co. (AI Algorithm Engineer).
 - **July 2021 - June 2022:** HaiFang Technology Co. (Optimization Algorithm Intern).
 - **Sep 2019 - May 2023:** Tianjin University of Commerce.
 
