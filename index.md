@@ -34,7 +34,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ## Selected research results
 ### Research Projects(*RESEARCH* Tab Detail)
-- Proposed for the data imbalance problem: **Adjust-Adacost model**.<br>
+- Proposed for  Imbalance Data: **Adjust-Adacost model**.<br>
 <img src="/images/p1.png" >    
 
 - Proposed for Time Series Forecasting: **Rolling ICEEMDAN-Methods**.<br>
@@ -53,7 +53,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 
 ### Competitions(*COMPETITIONS* Tab Detail)
-- *China's Sky Eye Space Telescope Optimizes Model with Real-Time Adjustments*.
+- *Real-time Reflective Panel Conditioning Model (**Multi-Objective Optimization**) for China's Sky Eye*.
 <img src="/images/SA-国赛.png">
 
 - *Edge Detection Models for Industrial Devices*.
@@ -62,7 +62,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 - *Simulation of Subway Headcount Variation over the Day due to Different Headway Intervals and Subway Siting*.
 <img src="/images/chooes_place.png">
 
-- *Sailboat Price Prediction Model - XGBoost based on SA Split Strategy*.
+- *Sailboat Price Prediction Model - XGBoost Based on SA Split Strategy*.
 <img src="/images/boat_price.png">
 
 - *EEMD-Based Machine Learning "Decomposition-Aggregation" Bitcoin Price Prediction Models*.
