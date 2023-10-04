@@ -39,5 +39,6 @@ Solving large sparse matrices is a performance bottleneck often encountered in t
 I spent about a month exploring almost all high-performance solver frameworks, and also accumulated more development experience, including pardiso, cupy, jax, taichi, PETSc, amgx, etc., and finally improved the computational performance of a process algorithm by nearly two orders of magnitude.
 
 ---
-***Due to some technical terms, I can't provide project details for the last three projects, so if you're interested, please contact me at my email and maybe we can set up a meeting to talk about it together!***<br>
+*Due to some technical terms, I can't provide project details for the last three projects, so if you're interested, please contact me at my email and maybe we can set up a meeting to talk about it together!*
+<br>
 **END**
