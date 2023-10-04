@@ -5,8 +5,7 @@ title: Competitions
 ---
 *I am honored that you would be interested in my experience with mathematical modeling and data mining competitions!*<br>
 ## Introduction
-   During my college years, as a team leader, **I completed a total of 12 mathematical modeling and data mining competitions**, accumulated a rich programming foundation and cultivated the ability of mathematical modeling. In my sophomore year, I founded the first competition-based organization in our university - AI Second Class. In the coming year, I led the organization members to **win more than 80 national or global awards**, with more than 3 awards per organization members.
-
+   During my college years, as a team leader, **I completed a total of 12 mathematical modeling and data mining competitions**, accumulated a rich programming foundation and cultivated the ability of mathematical modeling. In my sophomore year, I founded the first competition-based organization in our university - AI Second Class. In the coming year, I led the organization members to **win more than 80 National or Global Awards**, with more than 3 awards per organization members.<br>
 ***I have selected some of the results I have achieved from the competitions I have entered.***
 
 ## Selected Competitions
@@ -16,9 +15,9 @@ title: Competitions
 ***Brief overview of competition problems***：<br>
 Model sailboat price forecasts and analyze the impact of regional economic factors on sailboat price fluctuations.<br>
 ***problems-solving strategy***：<br>
-First, we change the strategy of selecting features when constructing sub-models in XGBoost to the SA algorithm-based approach and compare the effects of XGBoost and the Improved SA-XGBoost.<br>
+First, I change the strategy of selecting features when constructing sub-models in XGBoost to the SA algorithm-based approach and compare the effects of XGBoost and the Improved SA-XGBoost.<br>
 <img src="/images/FIG_MCM2-1.png">
-Second, we compare our model with the rest of the integrated learning or deep learning models.<br>
+Second, I compare our model with the rest of the integrated learning or deep learning models.<br>
 <img src="/images/FIG_MCM2-2.png">
 Ultimately I used SHAP values, PDP analysis, and ICE plots to explain the conclusions drawn from the Improved SA-XGBoost model. <br>
 <img src="/images/FIG_MCM2-3.png">
