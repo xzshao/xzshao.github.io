@@ -13,14 +13,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
   # facebook: caihanlin2002
-  github: sin31
-  SKILLS:
-  - Python
-  - Matlab
-  - Verilog HDL
-  - MySQL
-  - COMSOL
-  - FPGA
+  #github: sin31
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
@@ -44,6 +37,8 @@ links:
     url: /awards/
   - title: Fundings
     url: /fundings/
+  - title: CV
+    url: /file/CV-XianzhuShao.pdf
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
