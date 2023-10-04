@@ -25,7 +25,7 @@ Ultimately I used SHAP values, PDP analysis, and ICE plots to explain the conclu
 ### Bitcoin and Gold Price Prediction - EEMD Based Machine Learning Algorithm
 ***Competition**: Mathematical Contest In Modeling-2022*<br>
 ***Brief overview of competition problems***：<br>
-Construct a price prediction model for Bitcoin and gold and propose a trading strategy model to maximize the gains.
+Construct a price prediction model for Bitcoin and gold and propose a trading strategy model to maximize the gains.<br>
 ***problems-solving strategy***：<br>
 First, To address the fact that the number of IMFs obtained from EEMD decomposition of time-series data is usually inconsistent, the problem leads to difficulties in extrapolating predictions from EEMD models. I propose to cluster the IMFs before prediction, as follows:<br>
 <img src="/images/FIG_MCM1-flowchat&decomposition.png">
