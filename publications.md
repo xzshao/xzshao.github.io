@@ -7,7 +7,7 @@ title: Publications
 
 ## Papers & Publications 
 **A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review, Revise)**
-<br>JOURNAL: International Journal of Forecasting,
+<br>JOURNAL: International Journal of Forecasting,**IF:7.9**,**JCR Q1**
 <br>**Co-First author & Corresponding author**
 - I proposed a **dynamically adjusted cost-sensitive matrix**, resulting in an exponential growth of misclassification costs for defaulting samples during the training process. As the model advances in its training, it acquires a more comprehensive understanding of the characteristics of defaulting samples, leading to a substantial reduction in the misclassification rate of defaulting samples.
 - Through rigorous mathematical theory, I conducted a formal derivation and proof to establish the effectiveness of the exponentially growing cost-sensitive matrix during the training process. The model's training process is characterized by an exponential rate of error reduction. Error analysis unveiled that the misclassification rate of the proposed model is confined to a range asymptotically approaching zero.
@@ -20,7 +20,7 @@ title: Publications
 - I constructed an Adaboost model and conducted empirical analysis on a loan dataset from a commercial bank in China. The empirical analysis confirmed the superior performance of the Adaboost model in default prediction compared to other ensemble learning methods.
   
 **Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?	(Under review)**
-<br>JOURNAL: Resources Policy
+<br>JOURNAL: Resources Policy, **IF:10.2**,**JCR Q1**
 <br>Fourth author	
 - I propose **rolling ICEEMDAN theory** for time series prediction of the average coal price index in China's Bohai Rim region, which decomposes the time series data into multimodal modes and trains the prediction by neural network model for the sub-modal modes respectively.
 - I constructed LSTM,TCN,CNN time-series combination prediction model, and **the final error was reduced by more than 7% compared to the neural network model without time-series data decomposition**.
