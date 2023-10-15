@@ -12,7 +12,7 @@ title: research
 ## All research projects
 ### Loan Default Prediction: Adjust-Adacost Model Based on Imbalance Data
 **Cost-sensitive learning** is a class of models that biases losses by assigning different misclassification costs (defaults classified as nondefaults and nondefaults classified as defaults) to different misclassification categories. This makes the model correct for unbalanced data.<br>
-Cost-sensitive learning can significantly improve the performance of machine learning models on **imbalanced datasets**. I introduced cost-sensitive learning in the adaboost model, construct a cost-sensitive function that is continuously adjusted as the model is trained, and mathematically derive the optimal solution of the model's sample weights for this training process, the form of the analytical solution of the optimal solution of the model's weights. Furthermore, demonstrate that the upper bound of the proposed model's error is controlled near 0 (almost equal to 0) through error analysis.
+Cost-sensitive learning can significantly improve the performance of machine learning models on **imbalanced data**. I introduced cost-sensitive learning in the adaboost model, construct a cost-sensitive function that is continuously adjusted as the model is trained, and mathematically derive the optimal solution of the model's sample weights for this training process, the form of the analytical solution of the optimal solution of the model's weights. Furthermore, demonstrate that the upper bound of the proposed model's error is controlled near 0 (almost equal to 0) through error analysis.
 
 <img src="/images/p1.png" > 
 
