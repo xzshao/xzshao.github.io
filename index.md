@@ -11,7 +11,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall or 2025 Spring. Contact me if you have any leads!**
 - **Apr 2023 - Present:** HaiFang Technology Co. (AI Algorithm Engineer).
 - **July 2021 - June 2022:** HaiFang Technology Co. (Optimization Algorithm Intern).
 - **Sep 2019 - May 2023:** Tianjin University of Commerce.
