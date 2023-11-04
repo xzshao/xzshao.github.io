@@ -5,7 +5,7 @@ layout: page
 # About Me
 Here is **Xianzhu Shao**.
 
-I received my Bachelor of Science degree from the College of Science, Tianjin University of Commerce in June 2023, majoring in **Mathematics and Applied Mathematics**. Now, I am an **AI algorithm engineer** in a Chinese technology company, responsible for the development of **AI-CFD algorithms** , **Optimization algorithms**, and **High-performance computing**. 
+I received my Bachelor of Science degree from the College of Science, Tianjin University of Commerce in June 2023, majoring in **Mathematics and Applied Mathematics**. Now, I am an **AI algorithm engineer** in a Chinese technology company, responsible for the development of **AI algorithms** , **Optimization algorithms**, and **High-performance computing**. 
 
 <br>
 
@@ -25,7 +25,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 - Applied Machine Learning & Deep Learning.
 - Imbalance Data & Cost Sensitive Learning.
 - Optimization Algorithm.
-- Time Series Forecasting.
+- Time Series Forecasting Method.
 - High-Performance Computing.
 
 <br>
@@ -35,7 +35,7 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 ## SKILLS
 Python(Pytorch, OpenCV, Optuna, Sklearn,plotly. etc.)<br>
 Matlab(App Designer, OCBD, Comsol-Matlab Simulation. etc.)<br>
-MySQL, Verilog HDL, COMSOL
+MySQL, Verilog HDL, COMSOL<br>
 Linux
 
 <br>
