@@ -43,12 +43,17 @@ Linux
 
 ## Selected research results
 ### Research Projects(*RESEARCH* Tab Detail)
-- Proposed for  Imbalance Data: **Adjust-Adacost model**.<br>
-<img src="/images/p1.png" >    
+- Proposed for Power Load Forecasting: **ISFormer Model**.<br>
+<img src="/images/Table_ISFormer_result.png">
+<img src="/images/Fig_ISFormer_resut2.png">
 
 - Proposed for Time Series Forecasting: **Rolling ICEEMDAN-Methods**.<br>
 <img src="/images/p2.png">
 
+- Proposed for  Imbalance Data: **Adjust-Adacost model**.<br>
+<img src="/images/p1.png" >    
+
+### Work Projects(*RESEARCH* Tab Detail)
 - **Parallel High-Performance Simulated Annealing Algorithms**.<br>
 <img src="/images/HIGH_SA.png">
 
