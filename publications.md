@@ -23,7 +23,7 @@ compared to the existing SOTA model. The efficacy and significance of each modul
 this paper were assessed through comprehensive ablation experiments. In terms of time efficiency,
 ISFormer demonstrated a reduction in MSE and MAE of over 30% compared to the SOTA model in
 each prediction task.
-**Keywords:** Transformer · Power Forecasting · Autoformer · Time2Vec · Distillation Attention Mechanism
+<br>**Keywords:** Transformer · Power Forecasting · Autoformer · Time2Vec · Distillation Attention Mechanism
   
 **A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review, Revise)**
 <br>JOURNAL: International Journal of Forecasting,**IF:7.9**,**JCR Q1**
