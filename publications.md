@@ -6,6 +6,25 @@ title: Publications
 
 
 ## Papers & Publications 
+**A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review)**
+<br>JOURNAL: Energy,**IF:9**,**JCR Q1**
+<br>**First author**
+- In order to enhance the model’s ability to capture the information present in both the seasonal and trendcyclical part of the time series, we have implemented two modifications to the baseline model. 1. In order
+to embed temporal information, the model presented in this paper employs the Time2Vec module, which replaces the rule-based temporal information embedding utilized in the baseline model. The sine/cosine-based
+function of Time2Vec is capable of more effectively capturing periodic information, and a greater degree of
+periodic information is extracted at the input stage of the model, which reduces the difficulty of the model in
+capturing periodic features.2. We propose an embedding module for time series decomposition. This module
+extracts the periodic and trend terms of the time series using the moving average method. Furthermore, each
+step of the attention in the encoder and decoder computation is followed by seasonal term decomposition of
+the output of the hidden layer. This is conducive to improving the model’s ability to recognize seasonal and
+trend-cyclical part.
+- To address the issue of inefficiency in processing long time series, we propose the probabilistic sparse selfattention mechanism as a replacement for the autocorrelation module of Autoformer. This modification
+significantly reduces the computational time of the attention mechanism in the model, enabling it to more
+effectively extract key information.
+- A comprehensive comparison of multiple models and datasets was conducted to validate the efficacy of the
+proposed model. Additionally, a detailed ablation study was performed to ascertain the significance of each
+module in the model
+  
 **A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review, Revise)**
 <br>JOURNAL: International Journal of Forecasting,**IF:7.9**,**JCR Q1**
 <br>**Co-First author & Corresponding author**
