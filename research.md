@@ -25,7 +25,7 @@ compared to the existing SOTA model. The efficacy and significance of each modul
 this paper were assessed through comprehensive ablation experiments. In terms of time efficiency,
 ISFormer demonstrated a reduction in MSE and MAE of over 30% compared to the SOTA model in
 each prediction task.
-**Keywords:** Transformer · Power Forecasting · Autoformer · Time2Vec · Distillation Attention Mechanism
+<br>**Keywords:** Transformer · Power Forecasting · Autoformer · Time2Vec · Distillation Attention Mechanism
 <img src="/images/Table_ISFormer_result.png" > 
 <img src="/images/Fig_ISFormer_resut2.png" > 
 <img src="/images/Fig_ISFormer_resut.png" > 
