@@ -22,10 +22,10 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 
 ## Research Interests
 
-- Applied Machine Learning & Deep Learning.
+-  Time Series Forecasting Method.
+-  Applied Machine Learning & Deep Learning.
 - Imbalance Data & Cost Sensitive Learning.
 - Optimization Algorithm.
-- Time Series Forecasting Method.
 - High-Performance Computing.
 
 <br>
