@@ -9,21 +9,21 @@ title: Publications
 **A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review)**
 <br>JOURNAL: Energy,**IF:9**,**JCR Q1**
 <br>**First author**
-- In order to enhance the model’s ability to capture the information present in both the seasonal and trendcyclical part of the time series, we have implemented two modifications to the baseline model. 1. In order
-to embed temporal information, the model presented in this paper employs the Time2Vec module, which replaces the rule-based temporal information embedding utilized in the baseline model. The sine/cosine-based
-function of Time2Vec is capable of more effectively capturing periodic information, and a greater degree of
-periodic information is extracted at the input stage of the model, which reduces the difficulty of the model in
-capturing periodic features.2. We propose an embedding module for time series decomposition. This module
-extracts the periodic and trend terms of the time series using the moving average method. Furthermore, each
-step of the attention in the encoder and decoder computation is followed by seasonal term decomposition of
-the output of the hidden layer. This is conducive to improving the model’s ability to recognize seasonal and
-trend-cyclical part.
-- To address the issue of inefficiency in processing long time series, we propose the probabilistic sparse selfattention mechanism as a replacement for the autocorrelation module of Autoformer. This modification
-significantly reduces the computational time of the attention mechanism in the model, enabling it to more
-effectively extract key information.
-- A comprehensive comparison of multiple models and datasets was conducted to validate the efficacy of the
-proposed model. Additionally, a detailed ablation study was performed to ascertain the significance of each
-module in the model
+**Abstract:** There is an urgent need for intelligent systems to drive the development of global power systems. We
+propose a high-precision and high-efficiency time-series prediction model, ISFormer, for short-term
+high-granularity prediction of power systems based on the state-of-the-art Transformer architecture.
+Previous models are based on the auto-correlation sequence-attention mechanism, however, is inef-
+ficient and heavily reliant on the sample size at the sequence level. In this paper, we incorporate
+the highly efficient distillation-attention mechanism and the time-sequence decomposition module
+as our Transformer model kernel. The Time2Vec module is employed as the temporal information
+embedding module of the model, which enhances the predictive performance and seasonal capture
+ability of the model. The predictive efficacy of four distinct prediction granularities was evaluated
+on four public datasets. On average, ISFormer exhibited a reduction in MSE and MAE of over 10%
+compared to the existing SOTA model. The efficacy and significance of each module proposed in
+this paper were assessed through comprehensive ablation experiments. In terms of time efficiency,
+ISFormer demonstrated a reduction in MSE and MAE of over 30% compared to the SOTA model in
+each prediction task.
+**Keywords:** Transformer · Power Forecasting · Autoformer · Time2Vec · Distillation Attention Mechanism
   
 **A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review, Revise)**
 <br>JOURNAL: International Journal of Forecasting,**IF:7.9**,**JCR Q1**
