@@ -52,7 +52,7 @@ del performed better than the Adaboost and Adacost models.
 **Keywords:** Data imbalance, Adacost, Cost-sensitive, Credit prediction
 <img src="/images/p1.png" > 
 
-### Time Series Prediction: Machine Learning Models Based on Rolling-ICEEMDAN Methods[Four Author]
+### Time Series Prediction: Machine Learning Models Based on Rolling-ICEEMDAN Methods[Fourth Author]
 The usual EMD,EEMD,ICEEMDAN etc. methods of prediction after temporal decomposition (One-Dimensional->Higher-Dimensional) are almost always wrong because of serious data leakage problems, so the predictions obtained are very good. My research group and I proposed **Rolling-ICEEMDAN Methods**, which is an adaptive **decomposition-prediction-fusion** scheme that solves the data leakage problem well and also shows good performance.
 <img src="/images/p2.png" > 
 
