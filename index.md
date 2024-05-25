@@ -54,14 +54,22 @@ Linux
 <img src="/images/p1.png" >    
 
 ### Work Projects(*RESEARCH* Tab Detail)
+- **Self-learning long-term prediction model for lithium battery lifetime. [Based Transformer]**.<br>
+Trained on only the first **25%** of battery life cycle data to predict **75%** of future data.
+<img src="/images/Fig_LongTerm_25_75.png">
+
+Trained on only the first **50%** of battery life cycle data to predict **50%** of future data.
+<img src="/images/Fig_LongTerm_50_50.png">
+<img src="/images/Fig_LongTerm_HC_50_50.png">
+
+- **Designed for BMS systems, a real-time SOH prediction model for lithium batteries.[Based Transformer]**.<br>
+<img src="/images/Fig_BMS_pred_result.png">
+<img src="/images/Fig_BMS_TRI_result1.png">
+
 - **Parallel High-Performance Simulated Annealing Algorithms**.<br>
 <img src="/images/HIGH_SA.png">
 
-- Proposed for Lithium Iron Phosphate Battery SOH Prediction: **Improved LSTM Model(Seq2Seq)**.<br>
-<div class="image-container">
-    <img src="/images/SOH_LSTM.png">
-    <img src="/images/SOH_LSTM2.png">
-</div>
+
 
 <br>
 
