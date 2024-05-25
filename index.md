@@ -55,10 +55,10 @@ Linux
 
 ### Work Projects(*RESEARCH* Tab Detail)
 - **Self-learning long-term prediction model for lithium battery lifetime. [Based Transformer]**.<br>
-Trained on only the first **25%** of battery life cycle data to predict **75%** of future data.
+-- Trained on only the first **25%** of battery life cycle data to predict **75%** of future data.
 <img src="/images/Fig_LongTerm_25_75.png">
 
-Trained on only the first **50%** of battery life cycle data to predict **50%** of future data.
+-- Trained on only the first **50%** of battery life cycle data to predict **50%** of future data.
 <img src="/images/Fig_LongTerm_50_50.png">
 <img src="/images/Fig_LongTerm_HC_50_50.png">
 
