@@ -6,9 +6,9 @@ title: Publications
 
 
 ## Papers & Publications 
-### ISFormer:Improved Seasonal Transformer for Power Load Forecasting(Under Review)
-<br>JOURNAL: Energy,**IF:9**,**JCR Q1**
-<br>**First author**
+### ISFormer:Improved Seasonal Transformer for Power Load Forecasting(Under Review)  
+<br>JOURNAL: Energy,**IF:9**,**JCR Q1**  
+<br>**First author**  
 **Abstract:** There is an urgent need for intelligent systems to drive the development of global power systems. We
 propose a high-precision and high-efficiency time-series prediction model, ISFormer, for short-term
 high-granularity prediction of power systems based on the state-of-the-art Transformer architecture.
@@ -22,7 +22,7 @@ on four public datasets. On average, ISFormer exhibited a reduction in MSE and M
 compared to the existing SOTA model. The efficacy and significance of each module proposed in
 this paper were assessed through comprehensive ablation experiments. In terms of time efficiency,
 ISFormer demonstrated a reduction in MSE and MAE of over 30% compared to the SOTA model in
-each prediction task.
+each prediction task.  
 Keywords: Transformer · Power Forecasting · Autoformer · Time2Vec · Distillation Attention Mechanism  
 
 ### A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review, Revise)
