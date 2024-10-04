@@ -6,7 +6,7 @@ title: Publications
 
 
 ## Papers & Publications 
-**A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review)**
+**ISFormer:Improved Seasonal Transformer for Power Load Forecasting(Under Review)**
 <br>JOURNAL: Energy,**IF:9**,**JCR Q1**
 <br>**First author**
 **Abstract:** There is an urgent need for intelligent systems to drive the development of global power systems. We
@@ -33,12 +33,12 @@ each prediction task.
 - I modified the AdaBoost algorithm code in scikit-learn to develop the Adjust-Adacost algorithm for this study. Using a real dataset from a commercial bank in China involving loans to famer, I compared the Adjust-Adacost model with the Adacost and AdaBoost models. Additionally, I compared it with other cost-sensitive algorithms like Cost-Sensitive Random Forest (CS-RF), Cost-Sensitive XGBoost (CS-XGBoost), Cost-Sensitive Support Vector Machine (CS-SVM), and Cost-Sensitive Decision Trees (CS-DT). The results showed that the Adjust-Adacost model significantly outperformed the others, **with an AUC improvement of over 20% compared to Adacost and more than 10% compared to the other cost-sensitive algorithms**.
 - I conducted extensive experiments on international public datasets such as UCI and KEEL, and the results consistently demonstrated that the proposed Cost-**Adjusted Adacost model outperformed other cost-sensitive machine learning models**.
 
-**Based on Adaboost Algorithm for Loan Default Prediction Model 	(Published)**
+**Based on Adaboost Algorithm for Loan Default Prediction Model (Published)**
 <br>JOURNAL: Journal of China Emergency Management Science,May. 2023
 <br>**First author**	
 - I constructed an Adaboost model and conducted empirical analysis on a loan dataset from a commercial bank in China. The empirical analysis confirmed the superior performance of the Adaboost model in default prediction compared to other ensemble learning methods.
   
-**Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?	(Under review)**
+**Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?	(Minor revise)**
 <br>JOURNAL: Resources Policy, **IF:10.2**,**JCR Q1**
 <br>Fourth author	
 - I propose **rolling ICEEMDAN theory** for time series prediction of the average coal price index in China's Bohai Rim region, which decomposes the time series data into multimodal modes and trains the prediction by neural network model for the sub-modal modes respectively.
