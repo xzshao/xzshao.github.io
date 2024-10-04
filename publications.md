@@ -26,7 +26,7 @@ each prediction task.
 <br>**Keywords:** Transformer · Power Forecasting · Autoformer · Time2Vec · Distillation Attention Mechanism
   
 **A Dynamic Cost-Adjusted Adacost Model for Credit Prediction of Smallholder Farmers	(Under Review, Revise)**
-<br>JOURNAL: International Journal of Forecasting,**IF:7.9**,**JCR Q1**
+<br>JOURNAL: Journal of Forecasting,**JCR Q1**
 <br>**Co-First author & Corresponding author**
 - I proposed a **dynamically adjusted cost-sensitive matrix**, resulting in an exponential growth of misclassification costs for defaulting samples during the training process. As the model advances in its training, it acquires a more comprehensive understanding of the characteristics of defaulting samples, leading to a substantial reduction in the misclassification rate of defaulting samples.
 - Through rigorous mathematical theory, I conducted a formal derivation and proof to establish the effectiveness of the exponentially growing cost-sensitive matrix during the training process. The model's training process is characterized by an exponential rate of error reduction. Error analysis unveiled that the misclassification rate of the proposed model is confined to a range asymptotically approaching zero.
