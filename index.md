@@ -5,14 +5,15 @@ layout: page
 # About Me
 Here is **Xianzhu Shao**.
 
-I received my Bachelor of Science degree from the College of Science, Tianjin University of Commerce in June 2023, majoring in **Mathematics and Applied Mathematics**. Now, I am an **AI algorithm engineer** in a Chinese technology company, responsible for the development of **AI algorithms** , **Optimization algorithms**, and **High-performance computing**. 
+I earned my Bachelor of Science degree in Mathematics and Applied Mathematics from the College of Science at Tianjin University of Commerce in June 2023. After graduation, I worked as an AI algorithm engineer at Haifang Technology from 2023 to 2024, where I was responsible for the development of **AI algorithms**, **Optimization algorithms**, and **High-performance computing**. Currently, I am part of a joint algorithm development team at **Tencent & Canway**, focusing on the development of deep learning algorithms for **AIOps** (Artificial Intelligence for IT Operations).
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall or 2025 Spring. Contact me if you have any leads!**
-- **Apr 2023 - Present:** HaiFang Technology Co. (AI Algorithm Engineer).
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall or 2026 Spring. Contact me if you have any leads!**
+- **June 2024 - Present:** Canway & Tencent Joint Algorithm Development Team. (AI Algorithm Engineer).
+- **Apr 2023 - June 2024:** HaiFang Technology Co. (AI Algorithm Engineer).
 - **July 2021 - June 2022:** HaiFang Technology Co. (Optimization Algorithm Intern).
 - **Sep 2019 - May 2023:** Tianjin University of Commerce.
 
@@ -23,10 +24,11 @@ I received my Bachelor of Science degree from the College of Science, Tianjin Un
 ## Research Interests
 
 -  Time Series Forecasting Method.
+-  AIOps（Artificial Intelligence for IT Operations）
 -  Applied Machine Learning & Deep Learning.
-- Imbalance Data & Cost Sensitive Learning.
-- Optimization Algorithm.
-- High-Performance Computing.
+-  Imbalance Data & Cost Sensitive Learning.
+-  Optimization Algorithm.
+-  High-Performance Computing.
 
 <br>
 
