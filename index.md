@@ -5,7 +5,7 @@ layout: page
 # About Me
 Here is **Xianzhu Shao**.
 
-I earned my Bachelor of Science degree in Mathematics and Applied Mathematics from the College of Science at Tianjin University of Commerce in June 2023. After graduation, I worked as an AI algorithm engineer at Haifang Technology from 2023 to 2024, where I was responsible for the development of **AI algorithms**, **Optimization algorithms**, and **High-performance computing**. Currently, I am part of a joint algorithm development team at **Tencent & Canway**, focusing on the development of deep learning algorithms for **AIOps** (Artificial Intelligence for IT Operations).
+I earned my Bachelor of Science degree in Mathematics and Applied Mathematics from the College of Science at Tianjin University of Commerce in June 2023. After graduation, I worked as an AI algorithm engineer at Haifang Technology from 2023 to 2024, where I was responsible for developing AI algorithms, optimization algorithms, and high-performance computing solutions. Currently, I am part of a joint algorithm development team at Tencent & Canway, focusing on developing deep learning algorithms for AIOps (Artificial Intelligence for IT Operations).
 
 <br>
 
