@@ -65,7 +65,7 @@ Linux
   <img src="/images/Fig_LongTerm_HC_50_50.png">
 
 - **Designed for BMS systems, a real-time SOH prediction model for lithium batteries.[Transformer-Based model]**.<br>
-<img src="/images/Fig_BMS_pred_result.png">
+<img src="/images/Fig_BMS_pred_result.png" style="display: block; margin: 0 auto;">
 <img src="/images/Fig_BMS_TRI_result1.png">
 
 - **CPU Predict Model. [Transformer-Based model]**.<br>  
