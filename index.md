@@ -56,17 +56,21 @@ Linux
 <img src="/images/p1.png" >    
 
 ### Work Projects(*RESEARCH* Tab Detail)
-- **Self-learning long-term prediction model for lithium battery lifetime. [Based Transformer]**.<br>
--- Trained on only the first **25%** of battery life cycle data to predict **75%** of future data.
-<img src="/images/Fig_LongTerm_25_75.png">
+- **Self-learning long-term prediction model for lithium battery lifetime. [Transformer-Based model]**.<br>
+  - Trained on only the first **25%** of battery life cycle data to predict **75%** of future data.
+  <img src="/images/Fig_LongTerm_25_75.png">
 
--- Trained on only the first **50%** of battery life cycle data to predict **50%** of future data.
-<img src="/images/Fig_LongTerm_50_50.png">
-<img src="/images/Fig_LongTerm_HC_50_50.png">
+  - Trained on only the first **50%** of battery life cycle data to predict **50%** of future data.
+  <img src="/images/Fig_LongTerm_50_50.png">
+  <img src="/images/Fig_LongTerm_HC_50_50.png">
 
-- **Designed for BMS systems, a real-time SOH prediction model for lithium batteries.[Based Transformer]**.<br>
+- **Designed for BMS systems, a real-time SOH prediction model for lithium batteries.[Transformer-Based model]**.<br>
 <img src="/images/Fig_BMS_pred_result.png">
 <img src="/images/Fig_BMS_TRI_result1.png">
+
+- **CPU Predict Model. [Transformer-Based model]**.<br>  
+  ![cpu_predict1.PNG](images/cpu_predict1.PNG)
+  ![cpu_predict4.PNG](images/cpu_predict4.PNG)
 
 - **Parallel High-Performance Simulated Annealing Algorithms**.<br>
 <img src="/images/HIGH_SA.png">
