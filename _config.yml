@@ -39,10 +39,12 @@ links:
     url: /fundings/
   - title: CV
     url: /file/CV-XianzhuShao.pdf
+  - title: Why PhD?
+    url: /Why PhD/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Shanghai
+timezone: China/ShengZhen
 future: true
 highlighter: rouge
 # markdown: kramdown
