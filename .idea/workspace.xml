@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="clear temp">
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="update aiops experience">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/poikil/Desktop/001Pro/homepage/xzshao.github.io",
+    "last_opened_file_path": "/Users/poikil/Desktop/001Pro/homepage/xzshao.github.io/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -36,6 +36,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667046162046</updated>
       <workItem from="1667046175596" duration="621000" />
-      <workItem from="1729181080890" duration="910000" />
+      <workItem from="1729181080890" duration="3879000" />
     </task>
     <task id="LOCAL-00001" summary="clear temp">
       <option name="closed" value="true" />
@@ -63,7 +68,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729181321100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update aiops experience">
+      <option name="closed" value="true" />
+      <created>1729182704544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182704544</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update aiops experience">
+      <option name="closed" value="true" />
+      <created>1729182984001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182984001</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="clear temp" />
-    <option name="LAST_COMMIT_MESSAGE" value="clear temp" />
+    <MESSAGE value="update aiops experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="update aiops experience" />
   </component>
 </project>

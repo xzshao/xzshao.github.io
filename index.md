@@ -5,17 +5,19 @@ layout: page
 # About Me
 Here is **Xianzhu Shao**.
 
-I earned my Bachelor of Science degree in Mathematics and Applied Mathematics from the College of Science at Tianjin University of Commerce in June 2023. After graduation, I worked as an AI algorithm engineer at Haifang Technology from 2023 to 2024, where I was responsible for developing AI algorithms, optimization algorithms, and high-performance computing solutions. Currently, I am part of a joint algorithm development team at Tencent & Canway, focusing on developing deep learning algorithms for AIOps (Artificial Intelligence for IT Operations).
+I earned my Bachelor of Science degree in <font color='#87CEEB'>Mathematics and Applied Mathematics</font> from the College of Science at Tianjin University of Commerce in June 2023. After graduation, I worked as an <font color='#87CEEB'>AI algorithm engineer at Mutlisim Technology Co.</font> from 2023 to 2024, where I was responsible for developing <font color='#87CEEB'>AI algorithms, optimization algorithms, and high-performance computing solutions</font>. Currently, I am part of a joint algorithm development team at <font color='#87CEEB'>Tencent & Canway</font>, focusing on developing deep learning algorithms for <font color='#87CEEB'>AIOps</font> (Artificial Intelligence for IT Operations).
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall or 2026 Spring. Contact me if you have any leads!**
-- **June 2024 - Present:** Canway & Tencent Joint Algorithm Development Team. (AI Algorithm Engineer).
-- **Apr 2023 - June 2024:** HaiFang Technology Co. (AI Algorithm Engineer).
-- **July 2021 - June 2022:** HaiFang Technology Co. (Optimization Algorithm Intern).
-- **Sep 2019 - May 2023:** Tianjin University of Commerce.
+**<font color='red'>[Highlight]</font> **<font color='red'>I am looking for a PhD position</font> to start in <font color='#87CEEB'>2025 Fall</font> or <font color='#87CEEB'>2026 Spring</font>. Contact me if you have any leads! If you have any <font color='#87CEEB'>RA positions</font> available, feel free to contact me as well!**
+
+
+- **June 2024 - Present:** Canway & Tencent Joint Algorithm Development Team. (**AI Algorithm Engineer**).
+- **Apr 2023 - June 2024:** Multisim Technology Co. (**AI Algorithm Engineer**).
+- **July 2021 - June 2022:** Multisim Technology Co. (**Optimization Algorithm Intern**).
+- **Sep 2019 - May 2023:** College of Science, Tianjin University of Commerce.
 
 <br>
 
