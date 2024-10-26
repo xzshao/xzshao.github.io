@@ -11,7 +11,7 @@ I earned my Bachelor of Science degree in <font color='#87CEEB'>Mathematics and 
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> **<font color='red'>I am looking for a PhD position</font> to start in <font color='#87CEEB'>2025 Fall</font> or <font color='#87CEEB'>2026 Spring</font>. Contact me if you have any leads! If you have any <font color='#87CEEB'>RA positions</font> available, feel free to contact me as well!**
+**<font color='red'>[Highlight]</font><font color='red'>. **I am looking for a PhD position**</font> to start in <font color='#87CEEB'>2025 Fall</font> or <font color='#87CEEB'>2026 Spring</font>. Contact me if you have any leads! If you have any <font color='#87CEEB'>RA positions</font> available, feel free to contact me as well!**
 
 
 - **June 2024 - Present:** Canway & Tencent Joint Algorithm Development Team. (**AI Algorithm Engineer**).
@@ -20,6 +20,8 @@ I earned my Bachelor of Science degree in <font color='#87CEEB'>Mathematics and 
 - **Sep 2019 - May 2023:** College of Science, Tianjin University of Commerce.
 
 <br>
+
+
 
 ---
 
@@ -57,27 +59,24 @@ Linux
 - Proposed for  Imbalance Data: **Adjust-Adacost model**.<br>
 <img src="/images/p1.png" >    
 
-### Work Projects(*RESEARCH* Tab Detail)
-- **Self-learning long-term prediction model for lithium battery lifetime. [Transformer-Based model]**.<br>
-  - Trained on only the first **25%** of battery life cycle data to predict **75%** of future data.
-  <img src="/images/Fig_LongTerm_25_75.png">
-
-  - Trained on only the first **50%** of battery life cycle data to predict **50%** of future data.
-  <img src="/images/Fig_LongTerm_50_50.png">
-  <img src="/images/Fig_LongTerm_HC_50_50.png">
-
-- **Designed for BMS systems, a real-time SOH prediction model for lithium batteries.[Transformer-Based model]**.<br>
-<img src="/images/Fig_BMS_pred_result.png" style="display: block; margin: 0 auto;">
-<img src="/images/Fig_BMS_TRI_result1.png">
-
-- **CPU Predict Model. [Transformer-Based model]**.<br>  
-  ![cpu_predict1.PNG](images/cpu_predict1.PNG)
-  ![cpu_predict4.PNG](images/cpu_predict4.PNG)
-
-- **Parallel High-Performance Simulated Annealing Algorithms**.<br>
-<img src="/images/HIGH_SA.png">
+### Work Projects(Zoom meeting Detail～)
+<span style="font-size: 18px; font-weight: bold;">Self-learning long-term prediction model for lithium battery lifetime. [Transformer-Based model]</span><br>
+  <img src="/images/SOH_model.png">
+  <img src="/images/SOH_result.png">
 
 
+
+<span style="font-size: 18px; font-weight: bold;">Parallel High-Performance Simulated Annealing Algorithms</span><br>
+<img src="/images/SA_proj.png">
+
+
+
+<span style="font-size: 18px; font-weight:bold;">Accelerating the Solution of Million-Level Sparse Matrices in Pore Network Models</span>
+<img src="/images/PNW_opt.png">
+
+
+<span style="font-size:18px; font-weight:bold;">CPU Predict Model</span>  <br>  
+  <img src="/images/Patchtst_cpu.png">
 
 <br>
 
