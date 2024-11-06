@@ -67,19 +67,16 @@ Linux
 <img src="/images/SOH_result.png">
 
 <br><br>
-
 <span style="color:blue; font-size: 18px; font-weight: bold;">Parallel High-Performance Simulated Annealing Algorithms</span>  
 <br>
 <img src="/images/SA_proj.png">
 
 <br><br>
-
 <span style="color:blue; font-size: 18px; font-weight: bold;">Accelerating the Solution of Million-Level Sparse Matrices in Pore Network Models</span>  
 <br>
 <img src="/images/PNW_opt.png">
 
 <br><br>
-
 <span style="color:blue; font-size: 18px; font-weight: bold;">CPU Predict Model</span>  
 <br>
 <img src="/images/Patchtst_cpu.png">
@@ -89,16 +86,16 @@ Linux
 ### Competitions(*COMPETITIONS* Tab Detail)
 - *Real-time Reflective Panel Conditioning Model (**Multi-Objective Optimization**) for China's Sky Eye*.
 <img src="/images/SA-国赛.png">
-
+<br><br>
 - *Edge Detection Models for Industrial Devices*.
 <img src="/images/edge-detect.png">
-
+<br><br>
 - *Simulation of Subway Headcount Variation over the Day due to Different Headway Intervals and Subway Siting*.
 <img src="/images/chooes_place.png">
-
+<br><br>
 - *Sailboat Price Prediction Model - XGBoost Based on SA Split Strategy*.
 <img src="/images/boat_price.png">
-
+<br><br>
 - *EEMD-Based Machine Learning "Decomposition-Aggregation" Bitcoin Price Prediction Models*.
 <img src="/images/bit_predict.png">
 
