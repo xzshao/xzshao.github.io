@@ -59,26 +59,31 @@ Linux
 - Proposed for  Imbalance Data: **Adjust-Adacost model**.<br>
 <img src="/images/p1.png" >    
 
-### Work Projects(Zoom meeting Detail～)
-<span style="font-size: 18px; font-weight: bold;">Self-learning long-term prediction model for lithium battery lifetime. [Transformer-Based model]</span><br>
-  <img src="/images/SOH_model.png">
-  <img src="/images/SOH_result.png">
+### Work Projects (Zoom Meeting Detail～)
 
-&emsp;
+<span style="color:blue; font-size: 18px; font-weight: bold;">Self-learning long-term prediction model for lithium battery lifetime. [Transformer-Based model]</span>  
+<br>
+<img src="/images/SOH_model.png">
+<img src="/images/SOH_result.png">
 
-<span style="font-size: 18px; font-weight: bold;">Parallel High-Performance Simulated Annealing Algorithms</span><br>
+<br><br>
+
+<span style="color:blue; font-size: 18px; font-weight: bold;">Parallel High-Performance Simulated Annealing Algorithms</span>  
+<br>
 <img src="/images/SA_proj.png">
 
+<br><br>
 
-
-<span style="font-size: 18px; font-weight:bold;">Accelerating the Solution of Million-Level Sparse Matrices in Pore Network Models</span>
+<span style="color:blue; font-size: 18px; font-weight: bold;">Accelerating the Solution of Million-Level Sparse Matrices in Pore Network Models</span>  
+<br>
 <img src="/images/PNW_opt.png">
 
+<br><br>
 
-<span style="font-size:18px; font-weight:bold;">CPU Predict Model</span>  <br>  
-  <img src="/images/Patchtst_cpu.png">
-
+<span style="color:blue; font-size: 18px; font-weight: bold;">CPU Predict Model</span>  
 <br>
+<img src="/images/Patchtst_cpu.png">
+
 
 
 ### Competitions(*COMPETITIONS* Tab Detail)
