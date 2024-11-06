@@ -61,23 +61,23 @@ Linux
 
 ### Work Projects (Zoom Meeting Detail～)
 
-<span style="color:blue; font-size: 15px; font-weight: bold;">1.Self-learning long-term prediction model for lithium battery lifetime. [Transformer-Based model]</span>  
+<span style="color:blue; font-size: 15px; font-weight: bold;">Project-1:Self-learning long-term prediction model for lithium battery lifetime. [Transformer-Based model]</span>  
 <br>
 <img src="/images/SOH_model.png">
 <img src="/images/SOH_result.png">
 
 <br><br>
-<span style="color:blue; font-size: 15px; font-weight: bold;">2.Parallel High-Performance Simulated Annealing Algorithms</span>  
+<span style="color:blue; font-size: 15px; font-weight: bold;">Project-2:Parallel High-Performance Simulated Annealing Algorithms</span>  
 <br>
 <img src="/images/SA_proj.png">
 
 <br><br>
-<span style="color:blue; font-size: 15px; font-weight: bold;">3.Accelerating the Solution of Million-Level Sparse Matrices in Pore Network Models</span>  
+<span style="color:blue; font-size: 15px; font-weight: bold;">Project-3:Accelerating the Solution of Million-Level Sparse Matrices in Pore Network Models</span>  
 <br>
 <img src="/images/PNW_opt.png">
 
 <br><br>
-<span style="color:blue; font-size: 15px; font-weight: bold;">4.CPU Predict Model</span>  
+<span style="color:blue; font-size: 15px; font-weight: bold;">Project-4:CPU Predict Model</span>  
 <br>
 <img src="/images/Patchtst_cpu.png">
 
