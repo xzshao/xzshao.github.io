@@ -81,7 +81,9 @@ Linux
 <br>
 <img src="/images/Patchtst_cpu.png">
 
-
+<br><br>
+<br><br>
+<br><br>
 
 ### Competitions(*COMPETITIONS* Tab Detail)
 - *Real-time Reflective Panel Conditioning Model (**Multi-Objective Optimization**) for China's Sky Eye*.
