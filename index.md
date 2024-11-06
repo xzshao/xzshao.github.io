@@ -64,7 +64,7 @@ Linux
   <img src="/images/SOH_model.png">
   <img src="/images/SOH_result.png">
 
-
+&emsp;
 
 <span style="font-size: 18px; font-weight: bold;">Parallel High-Performance Simulated Annealing Algorithms</span><br>
 <img src="/images/SA_proj.png">
