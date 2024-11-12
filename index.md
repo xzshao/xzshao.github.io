@@ -38,11 +38,16 @@ I earned my Bachelor of Science degree in <font color='#87CEEB'>Mathematics and 
 
 ---
 
-## SKILLS
-Python(Pytorch, OpenCV, Optuna, Sklearn,plotly. etc.)<br>
-Matlab(App Designer, OCBD, Comsol-Matlab Simulation. etc.)<br>
-MySQL, Verilog HDL, COMSOL<br>
-Linux
+## NEWS
+- Nov 2024  Our paper "Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?" was accepted by Resource Policy (JCR Q1). Congratulations!
+
+- Sep 2024  Two of my first-author papers submitted to JCR Q1 journals are both in the under review status. Congratulations!
+
+- Jun 2023  I obtained my bachelor degree. Congratulations!
+
+- May 2023  I completed my graduation thesis and it was rated as an outstanding graduation thesis (top 1%). Congratulations!
+
+- Apr 2023  I started my first job as an AI algorithm engineer. Congratulations!
 
 <br>
 ---
