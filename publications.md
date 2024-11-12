@@ -38,7 +38,7 @@ Keywords: Transformer · Power Forecasting · Autoformer · Time2Vec · Distilla
 <br>**First author**	
 - I constructed an Adaboost model and conducted empirical analysis on a loan dataset from a commercial bank in China. The empirical analysis confirmed the superior performance of the Adaboost model in default prediction compared to other ensemble learning methods.
   
-### Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?	(Minor revise)
+### Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?	(**Accepted**)
 <br>JOURNAL: Resources Policy, **IF:10.2**,**JCR Q1**
 <br>Fourth author	
 - I propose **rolling ICEEMDAN theory** for time series prediction of the average coal price index in China's Bohai Rim region, which decomposes the time series data into multimodal modes and trains the prediction by neural network model for the sub-modal modes respectively.
