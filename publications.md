@@ -13,6 +13,11 @@ title: Publications
 - I constructed LSTM,TCN,CNN time-series combination prediction model, and **the final error was reduced by more than 7% compared to the neural network model without time-series data decomposition**.
 <br>
 
+### Based on Adaboost Algorithm for Loan Default Prediction Model (Published)
+<br>JOURNAL: Journal of China Emergency Management Science,May. 2023
+<br>**First author**	
+- I constructed an Adaboost model and conducted empirical analysis on a loan dataset from a commercial bank in China. The empirical analysis confirmed the superior performance of the Adaboost model in default prediction compared to other ensemble learning methods.
+  
 
 ### ISFormer:Improved Seasonal Transformer for Power Load Forecasting(Under Review)  
 <br>JOURNAL: Energy,**IF:9**,**JCR Q1**  
@@ -41,11 +46,6 @@ Keywords: Transformer · Power Forecasting · Autoformer · Time2Vec · Distilla
 - I modified the AdaBoost algorithm code in scikit-learn to develop the Adjust-Adacost algorithm for this study. Using a real dataset from a commercial bank in China involving loans to famer, I compared the Adjust-Adacost model with the Adacost and AdaBoost models. Additionally, I compared it with other cost-sensitive algorithms like Cost-Sensitive Random Forest (CS-RF), Cost-Sensitive XGBoost (CS-XGBoost), Cost-Sensitive Support Vector Machine (CS-SVM), and Cost-Sensitive Decision Trees (CS-DT). The results showed that the Adjust-Adacost model significantly outperformed the others, **with an AUC improvement of over 20% compared to Adacost and more than 10% compared to the other cost-sensitive algorithms**.
 - I conducted extensive experiments on international public datasets such as UCI and KEEL, and the results consistently demonstrated that the proposed Cost-ML Model，**Adjusted Adacost model outperformed other cost-sensitive machine learning models.**
 
-### Based on Adaboost Algorithm for Loan Default Prediction Model (Published)
-<br>JOURNAL: Journal of China Emergency Management Science,May. 2023
-<br>**First author**	
-- I constructed an Adaboost model and conducted empirical analysis on a loan dataset from a commercial bank in China. The empirical analysis confirmed the superior performance of the Adaboost model in default prediction compared to other ensemble learning methods.
-  
 
 
 
