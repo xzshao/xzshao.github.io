@@ -6,6 +6,14 @@ title: Publications
 
 
 ## Papers & Publications 
+### Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?	(**Accepted**)
+<br>JOURNAL: Resources Policy, **IF:10.2**,**JCR Q1**
+<br>Fourth author	
+- I propose **rolling ICEEMDAN theory** for time series prediction of the average coal price index in China's Bohai Rim region, which decomposes the time series data into multimodal modes and trains the prediction by neural network model for the sub-modal modes respectively.
+- I constructed LSTM,TCN,CNN time-series combination prediction model, and **the final error was reduced by more than 7% compared to the neural network model without time-series data decomposition**.
+<br>
+
+
 ### ISFormer:Improved Seasonal Transformer for Power Load Forecasting(Under Review)  
 <br>JOURNAL: Energy,**IF:9**,**JCR Q1**  
 <br>**First author**  
@@ -38,12 +46,7 @@ Keywords: Transformer · Power Forecasting · Autoformer · Time2Vec · Distilla
 <br>**First author**	
 - I constructed an Adaboost model and conducted empirical analysis on a loan dataset from a commercial bank in China. The empirical analysis confirmed the superior performance of the Adaboost model in default prediction compared to other ensemble learning methods.
   
-### Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?	(**Accepted**)
-<br>JOURNAL: Resources Policy, **IF:10.2**,**JCR Q1**
-<br>Fourth author	
-- I propose **rolling ICEEMDAN theory** for time series prediction of the average coal price index in China's Bohai Rim region, which decomposes the time series data into multimodal modes and trains the prediction by neural network model for the sub-modal modes respectively.
-- I constructed LSTM,TCN,CNN time-series combination prediction model, and **the final error was reduced by more than 7% compared to the neural network model without time-series data decomposition**.
-<br>
+
 
 
 
