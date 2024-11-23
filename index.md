@@ -39,7 +39,7 @@ I earned my Bachelor of Science degree in <font color='#87CEEB'>Mathematics and 
 ---
 
 ## NEWS
-- Nov 2024,  Our paper "Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?" was accepted by Resource Policy (JCR Q1). Congratulations!   [Read the full paper](/file/rolling.pdf)
+- Nov 2024,  Our paper "Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?" was accepted by Resource Policy (JCR Q1). Congratulations! <a href="/file/rolling.pdf" style="color:red;">Read the full paper</a>
 
 - Sep 2024,  Two of my first-author papers submitted to JCR Q1 journals are both in the under review status. Congratulations!
 
